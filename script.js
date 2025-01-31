@@ -5,7 +5,7 @@ menu.addEventListener('click', (e)=>{
     navLinks.classList.toggle('showMenu');
 })
 
-// tab 
+
 
 let sliderTab = document.querySelectorAll('.sliderTab');
 sliderTab.forEach(item => {
